@@ -1,0 +1,17 @@
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Application.deps.json
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Application.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Application.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Domain.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Domain.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.csproj.AssemblyReference.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.AssemblyInfoInputs.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.AssemblyInfo.cs
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.csproj.CoreCompileInputs.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE..3D7A5D88.Up2Date
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\refint\PCSTORE.Application.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\PCSTORE.Application.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\obj\Debug\net8.0\ref\PCSTORE.Application.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Contracts.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Application\bin\Debug\net8.0\PCSTORE.Contracts.pdb

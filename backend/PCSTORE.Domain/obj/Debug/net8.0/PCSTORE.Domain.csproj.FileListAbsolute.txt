@@ -1,0 +1,11 @@
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\bin\Debug\net8.0\PCSTORE.Domain.deps.json
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\bin\Debug\net8.0\PCSTORE.Domain.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\bin\Debug\net8.0\PCSTORE.Domain.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\PCSTORE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\PCSTORE.Domain.AssemblyInfoInputs.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\PCSTORE.Domain.AssemblyInfo.cs
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\PCSTORE.Domain.csproj.CoreCompileInputs.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\PCSTORE.Domain.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\refint\PCSTORE.Domain.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\PCSTORE.Domain.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Domain\obj\Debug\net8.0\ref\PCSTORE.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PCSTORE.Server.Api.props" />
+</Project>

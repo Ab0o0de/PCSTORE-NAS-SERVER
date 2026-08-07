@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PCSTORE.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PCSTORE.Application": "1.0.0",
+          "PCSTORE.Domain": "1.0.0",
+          "PCSTORE.Shared": "1.0.0"
+        },
+        "runtime": {
+          "PCSTORE.Infrastructure.dll": {}
+        }
+      },
+      "PCSTORE.Application/1.0.0": {
+        "dependencies": {
+          "PCSTORE.Contracts": "1.0.0",
+          "PCSTORE.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PCSTORE.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PCSTORE.Contracts/1.0.0": {
+        "runtime": {
+          "PCSTORE.Contracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PCSTORE.Domain/1.0.0": {
+        "runtime": {
+          "PCSTORE.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PCSTORE.Shared/1.0.0": {
+        "runtime": {
+          "PCSTORE.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCSTORE.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PCSTORE.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PCSTORE.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PCSTORE.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PCSTORE.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

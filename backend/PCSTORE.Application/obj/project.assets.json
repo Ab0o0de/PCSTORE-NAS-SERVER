@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PCSTORE.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PCSTORE.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PCSTORE.Contracts.dll": {}
+        }
+      },
+      "PCSTORE.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PCSTORE.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PCSTORE.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PCSTORE.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../PCSTORE.Contracts/PCSTORE.Contracts.csproj",
+      "msbuildProject": "../PCSTORE.Contracts/PCSTORE.Contracts.csproj"
+    },
+    "PCSTORE.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PCSTORE.Domain/PCSTORE.Domain.csproj",
+      "msbuildProject": "../PCSTORE.Domain/PCSTORE.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PCSTORE.Contracts >= 1.0.0",
+      "PCSTORE.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ab0o0de\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "H:\\omv\\pcstore-nas-server\\backend\\PCSTORE.Application\\PCSTORE.Application.csproj",
+      "projectName": "PCSTORE.Application",
+      "projectPath": "H:\\omv\\pcstore-nas-server\\backend\\PCSTORE.Application\\PCSTORE.Application.csproj",
+      "packagesPath": "C:\\Users\\ab0o0de\\.nuget\\packages\\",
+      "outputPath": "H:\\omv\\pcstore-nas-server\\backend\\PCSTORE.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ab0o0de\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "H:\\OMV\\PCSTORE-NAS-SERVER\\backend\\PCSTORE.Contracts\\PCSTORE.Contracts.csproj": {
+              "projectPath": "H:\\OMV\\PCSTORE-NAS-SERVER\\backend\\PCSTORE.Contracts\\PCSTORE.Contracts.csproj"
+            },
+            "H:\\omv\\pcstore-nas-server\\backend\\PCSTORE.Domain\\PCSTORE.Domain.csproj": {
+              "projectPath": "H:\\omv\\pcstore-nas-server\\backend\\PCSTORE.Domain\\PCSTORE.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.423/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

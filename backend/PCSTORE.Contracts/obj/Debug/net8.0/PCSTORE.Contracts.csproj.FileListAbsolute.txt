@@ -1,0 +1,11 @@
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\bin\Debug\net8.0\PCSTORE.Contracts.deps.json
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\bin\Debug\net8.0\PCSTORE.Contracts.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\bin\Debug\net8.0\PCSTORE.Contracts.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\PCSTORE.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\PCSTORE.Contracts.AssemblyInfoInputs.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\PCSTORE.Contracts.AssemblyInfo.cs
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\PCSTORE.Contracts.csproj.CoreCompileInputs.cache
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\PCSTORE.Contracts.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\refint\PCSTORE.Contracts.dll
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\PCSTORE.Contracts.pdb
+H:\OMV\PCSTORE-NAS-SERVER\backend\PCSTORE.Contracts\obj\Debug\net8.0\ref\PCSTORE.Contracts.dll
