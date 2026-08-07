@@ -65,3 +65,27 @@ Created:
 
 Last Updated:
 2026-08-07
+## NOTE-002 - Axios Client
+
+Status: Approved
+
+File:
+src/api/client/axios.ts
+
+Decision:
+يبقى الملف مسؤولًا فقط عن إنشاء Axios Instance.
+
+لا تتم إضافة:
+- JWT
+- Interceptors
+- Retry
+- Error Handling
+- Logging
+
+حتى تنفيذ Authentication Module.
+
+Reason:
+اتباع مبدأ Single Responsibility ومنع إدخال منطق غير مستخدم مبكرًا.
+
+Future:
+عند تنفيذ Authentication سيصبح نقطة الاتصال المركزية لجميع طلبات الـ API.
