@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTORE.Server.Api", "PCSTORE.Server.Api\PCSTORE.Server.Api.csproj", "{5BACF4CE-D0E2-4E12-AABA-CF108ACA5867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTORE.Application", "PCSTORE.Application\PCSTORE.Application.csproj", "{B46927BF-DF86-4E07-95F9-679A08365B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTORE.Domain", "PCSTORE.Domain\PCSTORE.Domain.csproj", "{88FB1A3B-7B25-4162-BF54-5F722D51A5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTORE.Infrastructure", "PCSTORE.Infrastructure\PCSTORE.Infrastructure.csproj", "{FA32D634-83EF-43B4-9DC7-016E9877D9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTORE.Shared", "PCSTORE.Shared\PCSTORE.Shared.csproj", "{B1942F94-900C-42DB-B3A5-86BBE3F10949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTORE.Contracts", "PCSTORE.Contracts\PCSTORE.Contracts.csproj", "{3DED5024-D3B7-46E6-BDA2-CE3A7CCC3021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BACF4CE-D0E2-4E12-AABA-CF108ACA5867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BACF4CE-D0E2-4E12-AABA-CF108ACA5867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BACF4CE-D0E2-4E12-AABA-CF108ACA5867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BACF4CE-D0E2-4E12-AABA-CF108ACA5867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46927BF-DF86-4E07-95F9-679A08365B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46927BF-DF86-4E07-95F9-679A08365B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46927BF-DF86-4E07-95F9-679A08365B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46927BF-DF86-4E07-95F9-679A08365B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FB1A3B-7B25-4162-BF54-5F722D51A5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FB1A3B-7B25-4162-BF54-5F722D51A5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FB1A3B-7B25-4162-BF54-5F722D51A5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FB1A3B-7B25-4162-BF54-5F722D51A5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA32D634-83EF-43B4-9DC7-016E9877D9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA32D634-83EF-43B4-9DC7-016E9877D9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA32D634-83EF-43B4-9DC7-016E9877D9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA32D634-83EF-43B4-9DC7-016E9877D9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1942F94-900C-42DB-B3A5-86BBE3F10949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1942F94-900C-42DB-B3A5-86BBE3F10949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1942F94-900C-42DB-B3A5-86BBE3F10949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1942F94-900C-42DB-B3A5-86BBE3F10949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DED5024-D3B7-46E6-BDA2-CE3A7CCC3021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DED5024-D3B7-46E6-BDA2-CE3A7CCC3021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DED5024-D3B7-46E6-BDA2-CE3A7CCC3021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DED5024-D3B7-46E6-BDA2-CE3A7CCC3021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
